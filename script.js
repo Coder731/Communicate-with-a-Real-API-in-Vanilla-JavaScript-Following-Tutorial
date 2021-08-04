@@ -7,5 +7,5 @@ function JavaScriptGenericFunction() {
     console.log('After program has run');
 
     postsPromise
-        .then(data => console.log(data));
+        .then(data => data.json());
 }
