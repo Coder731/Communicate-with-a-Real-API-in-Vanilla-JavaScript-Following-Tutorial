@@ -29,6 +29,8 @@ https://www.youtube.com/watch?v=12iA-xSuM4E&amp;t=339s This guide examines how y
 ![parsing](assets/images/parsing_cmprsd.png)
 ### Step 3 Note 4
 ![posts key](assets/images/posts_cmprsd.png)
+### Step 3 Note 5
+![Now have posts](assets/images/now_have_posts_cmprsd.png)
 ## References
 
 - [Functions](https://www.w3schools.com/js/js_functions.asp)

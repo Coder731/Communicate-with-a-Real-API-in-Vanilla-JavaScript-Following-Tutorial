@@ -25,5 +25,6 @@ function JavaScriptGenericFunction() {
             // all the way to calling all of those 
             // post titles for example
             // then may not realise the way the data flow changes
+            // Now have posts.
         })
 }
