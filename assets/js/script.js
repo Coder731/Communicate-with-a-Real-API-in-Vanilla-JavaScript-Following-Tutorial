@@ -32,6 +32,17 @@ function JavaScriptGenericFunction() {
             // item.title
             // if you go and look at the API
             // you can see right here we have 
-            // posts
-        })
+            // posts (the object's name)
+            // and then you have this set of arrays.
+            // see api at:
+            // https://api.dailysmarty.com/posts![API snippet](assets/images/api_cmprsd.png)
+            // have first one of id 414
+            // then have next one of 413 (see api above or video at this time in link here: https://youtu.be/12iA-xSuM4E?t=904 )
+            // So, all I am doing is inside of these nested objects 
+            // I am just going to be calling title
+            // and I have access to it because we are iterating over that
+            // and so I have: 
+            // console log item title
+ 
+        }) 
 }
