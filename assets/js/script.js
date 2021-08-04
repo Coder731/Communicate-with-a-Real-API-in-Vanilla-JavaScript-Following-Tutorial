@@ -1,6 +1,5 @@
 // https://www.w3schools.com/js/js_functions.asp
 function JavaScriptGenericFunction() {
-    console.log('Starting fetch call');
     const postsPromise = fetch('https://api.dailysmarty.com/posts')
 
     postsPromise// promise here on left...
