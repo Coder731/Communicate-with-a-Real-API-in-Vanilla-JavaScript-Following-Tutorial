@@ -5,4 +5,7 @@ function JavaScriptGenericFunction() {
     console.log('After fetch call');
     console.log(postsPromise);
     console.log('After program has run');
+
+    postsPromise
+        .then(data => console.log(data));
 }
