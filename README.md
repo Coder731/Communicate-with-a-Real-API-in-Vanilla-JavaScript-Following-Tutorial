@@ -20,6 +20,10 @@ https://www.youtube.com/watch?v=12iA-xSuM4E&amp;t=339s This guide examines how y
     - edit JavaScript file path
 ### Step 3
 - Continue video from 3 minutes and 57 seconds from Step 1 above.
+- Runs to 15 minutes and 31 seconds.
+
+### Step 4
+- Continue video from 15 minutes and 31 seconds.
 
 ## Notes
 
@@ -39,6 +43,8 @@ https://api.dailysmarty.com/posts is API location ![API snippet](assets/images/a
 ![historical API](assets/images/api_on_video_tutorial_cmprsd.png)
 ### Step 3 Note 8
 ![title of item in posts](assets/images/title_of_item_in_posts_cmprsd.png)
+### Step 3 Note 9
+![running code prints each title in api](assets/images/running_code_prints_each_title_in_api_cmprsd.png)
 
 ## References
 
