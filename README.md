@@ -31,6 +31,10 @@ https://www.youtube.com/watch?v=12iA-xSuM4E&amp;t=339s This guide examines how y
 ![posts key](assets/images/posts_cmprsd.png)
 ### Step 3 Note 5
 ![Now have posts](assets/images/now_have_posts_cmprsd.png)
+### Step 3 Note 6
+https://api.dailysmarty.com/posts is API location ![API snippet](assets/images/api_cmprsd.png)
+### Step 3 Note 7
+![historical API](assets/images/api_on_video_tutorial_cmprsd.png)
 ## References
 
 - [Functions](https://www.w3schools.com/js/js_functions.asp)

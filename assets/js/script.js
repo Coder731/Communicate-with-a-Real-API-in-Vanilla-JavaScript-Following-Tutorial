@@ -10,21 +10,28 @@ function JavaScriptGenericFunction() {
             // data in the second then
             // as this data in the second then is going to be referring to what got returned
             // which is the json formatted version
-            data.posts;// begin parsing through data returned (where the data is an object called posts)
-            // to allow rendering on a screen etc.
-            // This is how to parse json data in JavaScript
-            // because the post object was logged to the console.
-            // So, now, calling the key
-            // called posts
-            // Alternatively if this returned a set of guides
-            // would call .guides
-            // So it is dependent on what the API returns.
-            // This is part of why taking this in a 
-            // step by step process
-            // Because if try to go right from beginning 
-            // all the way to calling all of those 
-            // post titles for example
-            // then may not realise the way the data flow changes
-            // Now have posts.
+            data.posts.forEach((item) => {//Had posts. Now start iterating over... using a for Each loop
+            // for Each takes an argument of item
+            // So, this is the item that we're iterating over
+            // Then use another arrow function:
+                // Now have a block
+                // So can say:
+                console.log(item.title);// and the reason able to do this is because...
+            });//(Aside: close out for Each curly bracket and parenthesis)
+            // .... from above: .... the reason able to do this is because this data (on line with forEach, two code lines up from here)...
+            // .... and when I call posts...
+            // .... what this (posts two code lines up from here) is doing is ...
+            // .... this is going to grab:
+            // the array called posts
+            // and then we're iterating over it.
+            // Each item in that array (called posts) ...
+            // .... will have access to ...
+            // .... and that (item) is ...
+            // .... it's own object (that is, item in array is it's own object) ...
+            // .... and so, I can then call:
+            // item.title
+            // if you go and look at the API
+            // you can see right here we have 
+            // posts
         })
 }
