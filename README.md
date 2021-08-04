@@ -9,4 +9,14 @@ https://www.youtube.com/watch?v=12iA-xSuM4E&amp;t=339s This guide examines how y
 
 ## Steps
 ### Step 1
-Reproduced code from video to 3 minutes and 57 seconds
+- Reproduced code from video to 3 minutes and 57 seconds
+### Step 2
+- Add code from this Repository:
+    https://github.com/Coder731/How-to-use-external-JavaScript-files-in-an-HTML-file-Following-Website-Instructions
+    - code copied:
+        - all in index.html
+    - edit function call
+    - edit JavaScript file path
+## References
+
+- [Functions](https://www.w3schools.com/js/js_functions.asp)
