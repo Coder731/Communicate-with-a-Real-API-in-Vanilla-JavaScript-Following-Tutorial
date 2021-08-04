@@ -17,6 +17,9 @@ function JavaScriptGenericFunction() {
             console.log(data);//this line and previous are critical to working with APIs
             // Note: when calling an API cannot just call an API and 
             // get all the data that you want back.
-            // There are a number of processes that have to take place.
+            // There are a number of processes that have to take place:
+            // - Returning from a promise
+            // - Converting to json
+            // - and now will work with that object:
         })
 }
