@@ -21,8 +21,10 @@ https://www.youtube.com/watch?v=12iA-xSuM4E&amp;t=339s This guide examines how y
 - Continue video from 3 minutes and 57 seconds from Step 1 above.
 
 ## Notes
+### Step 3 Note 1
 ![json and then explanation](assets/images/json_and_then_explanation_cmprsd.png)
-
+### Step 3 Note 2
+![explanation on api](assets/images/explanation_on_api_cmprsd.png)
 ## References
 
 - [Functions](https://www.w3schools.com/js/js_functions.asp)
