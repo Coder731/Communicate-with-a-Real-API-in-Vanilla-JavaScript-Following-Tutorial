@@ -35,7 +35,7 @@ function JavaScriptGenericFunction() {
             // posts (the object's name)
             // and then you have this set of arrays.
             // see api at:
-            // https://api.dailysmarty.com/posts![API snippet](assets/images/api_cmprsd.png)
+            // https://api.dailysmarty.com/posts
             // have first one of id 414
             // then have next one of 413 (see api above or video at this time in link here: https://youtu.be/12iA-xSuM4E?t=904 )
             // So, all I am doing is inside of these nested objects 

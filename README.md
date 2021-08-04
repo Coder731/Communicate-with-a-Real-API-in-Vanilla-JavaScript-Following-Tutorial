@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=12iA-xSuM4E&amp;t=339s This guide examines how y
 - gitpod using Visual Studio Code pushing to github
 
 ## Steps
+
 ### Step 1
 - Reproduced code from video to 3 minutes and 57 seconds
 ### Step 2
@@ -21,6 +22,7 @@ https://www.youtube.com/watch?v=12iA-xSuM4E&amp;t=339s This guide examines how y
 - Continue video from 3 minutes and 57 seconds from Step 1 above.
 
 ## Notes
+
 ### Step 3 Note 1
 ![json and then explanation](assets/images/json_and_then_explanation_cmprsd.png)
 ### Step 3 Note 2
@@ -37,6 +39,7 @@ https://api.dailysmarty.com/posts is API location ![API snippet](assets/images/a
 ![historical API](assets/images/api_on_video_tutorial_cmprsd.png)
 ### Step 3 Note 8
 ![title of item in posts](assets/images/title_of_item_in_posts_cmprsd.png)
+
 ## References
 
 - [Functions](https://www.w3schools.com/js/js_functions.asp)
