@@ -15,5 +15,8 @@ function JavaScriptGenericFunction() {
             // as this data in the second then is going to be referring to what got returned
             // which is the json formatted version
             console.log(data);//this line and previous are critical to working with APIs
+            // Note: when calling an API cannot just call an API and 
+            // get all the data that you want back.
+            // There are a number of processes that have to take place.
         })
 }
