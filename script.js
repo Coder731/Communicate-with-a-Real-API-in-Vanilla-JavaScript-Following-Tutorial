@@ -6,6 +6,7 @@ function JavaScriptGenericFunction() {
     console.log(postsPromise);
     console.log('After program has run');
 
-    postsPromise
-        .then(data => data.json());
+    postsPromise// promise here on left...
+        .then(data => data.json())//....returns a response on left of arrow|now convert that response to json on right of arrow
+        .then(data)
 }
