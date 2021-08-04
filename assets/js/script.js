@@ -10,12 +10,7 @@ function JavaScriptGenericFunction() {
             // data in the second then
             // as this data in the second then is going to be referring to what got returned
             // which is the json formatted version
-            console.log(data);//this line and previous are critical to working with APIs
-            // Note: when calling an API cannot just call an API and 
-            // get all the data that you want back.
-            // There are a number of processes that have to take place:
-            // - Returning from a promise
-            // - Converting to json
-            // - and now will work with that object:
+            data.posts;// begin parsing through data returned (where the data is an object called posts)
+            // to allow rendering on a screen etc.
         })
 }

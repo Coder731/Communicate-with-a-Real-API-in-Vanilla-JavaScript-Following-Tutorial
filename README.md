@@ -25,6 +25,8 @@ https://www.youtube.com/watch?v=12iA-xSuM4E&amp;t=339s This guide examines how y
 ![json and then explanation](assets/images/json_and_then_explanation_cmprsd.png)
 ### Step 3 Note 2
 ![explanation on api](assets/images/explanation_on_api_cmprsd.png)
+### Step 3 Note 3
+![parsing](assets/images/parsing_cmprsd.png)
 ## References
 
 - [Functions](https://www.w3schools.com/js/js_functions.asp)
